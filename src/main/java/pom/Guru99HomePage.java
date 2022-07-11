@@ -36,7 +36,9 @@ public class Guru99HomePage {
     public void ClickOnFemaleGender() {
     	FemaleGender.click();
     }
-    
+    public void demo() {
+    	System.out.println();
+    }
     	
     }
     
